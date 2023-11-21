@@ -53,8 +53,4 @@ jobs:
      env:
        AWS_ACCESS_KEY_ID: AKIASZR7I5PGBA22BJGB
        AWS_SECRET_ACCESS_KEY: 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
-     run: |
-       aws s3 cp \
-       --region ap-northeast-2 \
-       --acl private \ 
-       ./springboot-intro-build.zip s3://sw-deploy11
+     run: aws s3 cp --region ap-northeast-2 ./springboot-intro-build.zip s3://sw-deploy11
