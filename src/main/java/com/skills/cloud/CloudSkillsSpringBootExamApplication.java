@@ -17,7 +17,7 @@ public class CloudSkillsSpringBootExamApplication {
 	public HealthChecker index() {
 		
 		HealthChecker healthChecker = new HealthChecker();
-		healthChecker.setStatus("test1");
+		healthChecker.setStatus("test2");
 		
 		return healthChecker;
 	}
