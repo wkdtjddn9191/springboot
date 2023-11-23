@@ -1,5 +1,5 @@
 # cloud-skills-sample-spring-boot-app
-cloud-skills-sample-spring-boot-app with Java/Spring Boot (Gradle)1221123311111111111111
+cloud-skills-sample-spring-boot-app with Java/Spring Boot (Gradle)001
 
 #### Gradle Version : 7.3.3
 
